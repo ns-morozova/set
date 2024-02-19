@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cdmgisjwccy47j1g?svg=true)](https://ci.appveyor.com/project/ns-morozova/set)
